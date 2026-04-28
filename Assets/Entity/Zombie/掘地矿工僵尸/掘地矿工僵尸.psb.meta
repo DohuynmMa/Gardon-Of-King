@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: d4c3353c16390d34799b53fee7721342
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Zombie_digger_dig5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 679
+      y: 430
+      width: 229
+      height: 56
+    spriteID: f2760e68b43db4241939555dbec5994e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 679, y: 430}
+    spritePosition: {x: 118, y: 69}
+  - name: Zombie_digger_dig4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 691
+      y: 232
+      width: 233
+      height: 73
+    spriteID: 385dee412ed27214385c71a9bd1fcff7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 232}
+    spritePosition: {x: 116, y: 69}
+  - name: Zombie_digger_dig3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 410
+      y: 99
+      width: 237
+      height: 87
+    spriteID: 0760ab6574fa0c84d900d90a123cea99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 410, y: 99}
+    spritePosition: {x: 112, y: 69}
+  - name: Zombie_digger_dig2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 410
+      y: 4
+      width: 271
+      height: 87
+    spriteID: b54bd4b6a67954449b7e4ae878243aeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 410, y: 4}
+    spritePosition: {x: 112, y: 69}
+  - name: Zombie_digger_dig1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 232
+      width: 247
+      height: 83
+    spriteID: 57fe769b6caef3d4495eb2ade1d269df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 232}
+    spritePosition: {x: 111, y: 69}
+  - name: Zombie_digger_dig0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 430
+      width: 223
+      height: 63
+    spriteID: a197b926611f45f4782cc6c1c6e76261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 448, y: 430}
+    spritePosition: {x: 109, y: 69}
+  - name: Zombie_digger_rise_ground
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 387
+      y: 232
+      width: 296
+      height: 65
+    spriteID: 0b018422cf3cc0e44b19074ac8f8a8e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 387, y: 232}
+    spritePosition: {x: 98, y: 80}
+  - name: "\u56FE\u5C4213"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 430
+      width: 150
+      height: 102
+    spriteID: de480225ee2d63342833158ccb58194c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 430}
+    spritePosition: {x: 152, y: 348}
+  - name: "\u56FE\u5C4212"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 430
+      width: 150
+      height: 106
+    spriteID: 215107934234524419c55bfd1ac01ed9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 430}
+    spritePosition: {x: 153, y: 348}
+  - name: "\u56FE\u5C42 2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 843
+      y: 4
+      width: 150
+      height: 125
+    spriteID: 353d786dd8e43564a961ae5effa982c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 843, y: 4}
+    spritePosition: {x: 152, y: 343}
+  - name: "\u80CC\u5305\u5E26"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 323
+      width: 73
+      height: 95
+    spriteID: 2bf9a8355665e4f4598f118b911e0535
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 323}
+    spritePosition: {x: 267, y: 225}
+  - name: "\u80CC\u5305"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 4
+      width: 162
+      height: 179
+    spriteID: f6900a2d9adec4a4582d36e4b492dcf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 4}
+    spritePosition: {x: 274, y: 245}
+  - name: "\u5DE6\u4E0A\u81C2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 550
+      width: 107
+      height: 171
+    spriteID: d6456f32432a5a44894b7ae056c5027e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 550}
+    spritePosition: {x: 274, y: 154}
+  - name: Zombie_digger_outerarm_upper2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 729
+      width: 112
+      height: 133
+    spriteID: 492dcc123648a9a4b8e9cb44584e83f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 729}
+    spritePosition: {x: 271, y: 192}
+  - name: Zombie_digger_outerarm_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 544
+      width: 92
+      height: 110
+    spriteID: 0f53cb43c2ab42f43aa5e9db13e5c41d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 544}
+    spritePosition: {x: 275, y: 119}
+  - name: Zombie_digger_outerarm_hand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 932
+      y: 232
+      width: 73
+      height: 65
+    spriteID: ce48b4c1858b8134988109bf3e1dba8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 932, y: 232}
+    spritePosition: {x: 281, y: 90}
+  - name: Zombie_digger_outerleg_upper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 323
+      width: 103
+      height: 80
+    spriteID: f7c55ab69f1465b46bd865b55f95aee9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 323}
+    spritePosition: {x: 302, y: 94}
+  - name: Zombie_digger_outerleg_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 597
+      y: 323
+      width: 92
+      height: 62
+    spriteID: bf03ec3695976164eb73cad6cbb95eaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 597, y: 323}
+    spritePosition: {x: 309, y: 51}
+  - name: Zombie_digger_outerleg_fool
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 697
+      y: 323
+      width: 102
+      height: 54
+    spriteID: e7a96ffc553ee3d419f7e5cbc18572c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 697, y: 323}
+    spritePosition: {x: 299, y: 15}
+  - name: Zombie_digger_jaw
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 323
+      width: 161
+      height: 99
+    spriteID: fcf20077b6e3f414fbc53a128a200c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 323}
+    spritePosition: {x: 153, y: 236}
+  - name: Zombie_digger_head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 689
+      y: 4
+      width: 146
+      height: 160
+    spriteID: 73c42cf9559bffd41ba8771b554643f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 689, y: 4}
+    spritePosition: {x: 166, y: 256}
+  - name: Zombie_digger_body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 228
+      height: 220
+    spriteID: 676c5f40e72a1e4429fb8f1bc8f31e7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 204, y: 127}
+  - name: Zombie_digger_innerleg_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 430
+      width: 92
+      height: 98
+    spriteID: 8839f3f04f378e64a972387f8a4928e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 430}
+    spritePosition: {x: 220, y: 76}
+  - name: "\u53F3\u5C0F\u817F"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 807
+      y: 323
+      width: 63
+      height: 63
+    spriteID: 7c121f98b2097854db616a8c84599560
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 807, y: 323}
+    spritePosition: {x: 224, y: 54}
+  - name: "\u53F3\u811A"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 493
+      y: 323
+      width: 96
+      height: 68
+    spriteID: a02cbc8b7df2bee41bc4f274ad6bb163
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 493, y: 323}
+    spritePosition: {x: 218, y: 30}
+  - name: Zombie_digger_innerarm_upper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 870
+      width: 97
+      height: 109
+    spriteID: e5a553e97fd11b7468a05845bd4e9a82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 870}
+    spritePosition: {x: 180, y: 180}
+  - name: Zombie_digger_innerarm_hand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 960
+      y: 137
+      width: 57
+      height: 61
+    spriteID: 13f1c6f1a6bacc34db71cef5a28f90e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 960, y: 137}
+    spritePosition: {x: 89, y: 157}
+  - name: Zombie_digger_dirt
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 697
+      y: 385
+      width: 71
+      height: 34
+    spriteID: f5da8b4b26774e342bc202b787317225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 697, y: 385}
+    spritePosition: {x: 104, y: 38}
+  - name: "\u94F2\u5B50"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 232
+      width: 120
+      height: 310
+    spriteID: db232971980efc240bf9062f3ed1bef3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 232}
+    spritePosition: {x: 37, y: 63}
+  - name: Zombie_digger_innerarm_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 843
+      y: 137
+      width: 109
+      height: 81
+    spriteID: f5d61bacb1750cd4ebe393bd2aff56ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 843, y: 137}
+    spritePosition: {x: 115, y: 169}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Zombie_digger_dig5
+    spriteName: Zombie_digger_dig5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f2760e68b43db4241939555dbec5994e
+    layerID: 51
+    mosaicPosition: {x: 679, y: 430}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_dig4
+    spriteName: Zombie_digger_dig4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 385dee412ed27214385c71a9bd1fcff7
+    layerID: 50
+    mosaicPosition: {x: 691, y: 232}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_dig3
+    spriteName: Zombie_digger_dig3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0760ab6574fa0c84d900d90a123cea99
+    layerID: 49
+    mosaicPosition: {x: 410, y: 99}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_dig2
+    spriteName: Zombie_digger_dig2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b54bd4b6a67954449b7e4ae878243aeb
+    layerID: 48
+    mosaicPosition: {x: 410, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_dig1
+    spriteName: Zombie_digger_dig1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 57fe769b6caef3d4495eb2ade1d269df
+    layerID: 47
+    mosaicPosition: {x: 132, y: 232}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_dig0
+    spriteName: Zombie_digger_dig0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a197b926611f45f4782cc6c1c6e76261
+    layerID: 46
+    mosaicPosition: {x: 448, y: 430}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_rise_ground
+    spriteName: Zombie_digger_rise_ground
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0b018422cf3cc0e44b19074ac8f8a8e5
+    layerID: 45
+    mosaicPosition: {x: 387, y: 232}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u56FE\u5C4213"
+    spriteName: "\u56FE\u5C4213"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: de480225ee2d63342833158ccb58194c
+    layerID: 43
+    mosaicPosition: {x: 290, y: 430}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u56FE\u5C4212"
+    spriteName: "\u56FE\u5C4212"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 215107934234524419c55bfd1ac01ed9
+    layerID: 42
+    mosaicPosition: {x: 132, y: 430}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u56FE\u5C42 2"
+    spriteName: "\u56FE\u5C42 2"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 353d786dd8e43564a961ae5effa982c1
+    layerID: 41
+    mosaicPosition: {x: 843, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u80CC\u5305\u5E26"
+    spriteName: "\u80CC\u5305\u5E26"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2bf9a8355665e4f4598f118b911e0535
+    layerID: 56
+    mosaicPosition: {x: 412, y: 323}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u80CC\u5305"
+    spriteName: "\u80CC\u5305"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f6900a2d9adec4a4582d36e4b492dcf7
+    layerID: 31
+    mosaicPosition: {x: 240, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u5DE6\u4E0A\u81C2"
+    spriteName: "\u5DE6\u4E0A\u81C2"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d6456f32432a5a44894b7ae056c5027e
+    layerID: 26
+    mosaicPosition: {x: 4, y: 550}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_outerarm_upper2
+    spriteName: Zombie_digger_outerarm_upper2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 492dcc123648a9a4b8e9cb44584e83f2
+    layerID: 25
+    mosaicPosition: {x: 4, y: 729}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_outerarm_lower
+    spriteName: Zombie_digger_outerarm_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f53cb43c2ab42f43aa5e9db13e5c41d
+    layerID: 60
+    mosaicPosition: {x: 132, y: 544}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_outerarm_hand
+    spriteName: Zombie_digger_outerarm_hand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ce48b4c1858b8134988109bf3e1dba8d
+    layerID: 23
+    mosaicPosition: {x: 932, y: 232}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_outerleg_upper
+    spriteName: Zombie_digger_outerleg_upper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f7c55ab69f1465b46bd865b55f95aee9
+    layerID: 22
+    mosaicPosition: {x: 301, y: 323}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_outerleg_lower
+    spriteName: Zombie_digger_outerleg_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf03ec3695976164eb73cad6cbb95eaa
+    layerID: 59
+    mosaicPosition: {x: 597, y: 323}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_outerleg_fool
+    spriteName: Zombie_digger_outerleg_fool
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e7a96ffc553ee3d419f7e5cbc18572c6
+    layerID: 20
+    mosaicPosition: {x: 697, y: 323}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_jaw
+    spriteName: Zombie_digger_jaw
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fcf20077b6e3f414fbc53a128a200c46
+    layerID: 19
+    mosaicPosition: {x: 132, y: 323}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_head
+    spriteName: Zombie_digger_head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73c42cf9559bffd41ba8771b554643f9
+    layerID: 53
+    mosaicPosition: {x: 689, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_body
+    spriteName: Zombie_digger_body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 676c5f40e72a1e4429fb8f1bc8f31e7b
+    layerID: 52
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_innerleg_lower
+    spriteName: Zombie_digger_innerleg_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8839f3f04f378e64a972387f8a4928e2
+    layerID: 11
+    mosaicPosition: {x: 916, y: 430}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u53F3\u5C0F\u817F"
+    spriteName: "\u53F3\u5C0F\u817F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c121f98b2097854db616a8c84599560
+    layerID: 9
+    mosaicPosition: {x: 807, y: 323}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u53F3\u811A"
+    spriteName: "\u53F3\u811A"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a02cbc8b7df2bee41bc4f274ad6bb163
+    layerID: 57
+    mosaicPosition: {x: 493, y: 323}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_innerarm_upper
+    spriteName: Zombie_digger_innerarm_upper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e5a553e97fd11b7468a05845bd4e9a82
+    layerID: 58
+    mosaicPosition: {x: 4, y: 870}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_innerarm_hand
+    spriteName: Zombie_digger_innerarm_hand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 13f1c6f1a6bacc34db71cef5a28f90e9
+    layerID: 6
+    mosaicPosition: {x: 960, y: 137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_dirt
+    spriteName: Zombie_digger_dirt
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f5da8b4b26774e342bc202b787317225
+    layerID: 5
+    mosaicPosition: {x: 697, y: 385}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u94F2\u5B50"
+    spriteName: "\u94F2\u5B50"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: db232971980efc240bf9062f3ed1bef3
+    layerID: 4
+    mosaicPosition: {x: 4, y: 232}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_digger_innerarm_lower
+    spriteName: Zombie_digger_innerarm_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f5d61bacb1750cd4ebe393bd2aff56ac
+    layerID: 2
+    mosaicPosition: {x: 843, y: 137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

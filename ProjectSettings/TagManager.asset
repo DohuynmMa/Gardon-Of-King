@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Effect
+  - Background
+  - Cell
+  - Entity
+  - Zombie
+  - Tower
+  - Shadow
+  - Home
+  - CellLeft
+  - CellRight
+  - UI_Game
+  - HpBar
+  - Card
+  - Manager
+  - Gar_Imp
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Friend
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4024064463
+    locked: 0
+  - name: EffectCanMask
+    uniqueID: 2597054829
+    locked: 0
+  - name: Entity
+    uniqueID: 2051243361
+    locked: 0
+  - name: Bullet
+    uniqueID: 3676679095
+    locked: 0
+  - name: Effect
+    uniqueID: 4151700983
+    locked: 0
+  - name: Other
+    uniqueID: 3638979285
+    locked: 0

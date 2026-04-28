@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 72021b0a5aab27747a2574158b98132c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "8\u5916"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1132
+      y: 1314
+      width: 201
+      height: 702
+    spriteID: 54b1e151b4ce06d4c98ab0aa50b9679d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1132, y: 1314}
+    spritePosition: {x: 440, y: 752}
+  - name: "7\u5916"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 4
+      width: 209
+      height: 658
+    spriteID: 2469f3d4ab7d7c64ca7eef8f85f4ae39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 4}
+    spritePosition: {x: 432, y: 752}
+  - name: "6\u5916"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1132
+      y: 671
+      width: 207
+      height: 687
+    spriteID: c3aedf2b7ffb34746bcf8c4552503d61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1132, y: 671}
+    spritePosition: {x: 435, y: 752}
+  - name: "5\u5916"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1132
+      y: 4
+      width: 221
+      height: 667
+    spriteID: bfa983ccdf0fc604d8c60ccc80c2505c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1132, y: 4}
+    spritePosition: {x: 421, y: 752}
+  - name: "\u56FE\u5C42 1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 844
+      width: 183
+      height: 105
+    spriteID: 71ddaf5b4733c1541b59ea9ef41457ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 844}
+    spritePosition: {x: 408, y: 1144}
+  - name: CrazyDave_outerfinger1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1282
+      y: 2023
+      width: 25
+      height: 17
+    spriteID: cf77141ce61f7b2438bfad1c34c3f83a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1282, y: 2023}
+    spritePosition: {x: 423, y: 1229}
+  - name: CrazyDave_outerfinger2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 626
+      width: 22
+      height: 20
+    spriteID: f9e5eb681bfe49c46a7baf6b08b9de8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1537, y: 626}
+    spritePosition: {x: 424, y: 1213}
+  - name: CrazyDave_outerfinger3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 654
+      width: 21
+      height: 20
+    spriteID: 52a82d0b033b5b94f9b1a0e3f9b28890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1537, y: 654}
+    spritePosition: {x: 425, y: 1204}
+  - name: CrazyDave_outerfinger4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1494
+      y: 777
+      width: 15
+      height: 22
+    spriteID: df785bddd241ec9489edb9b863ac64b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1494, y: 777}
+    spritePosition: {x: 436, y: 1194}
+  - name: CrazyDave_outerhand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1494
+      y: 626
+      width: 35
+      height: 51
+    spriteID: 5aef1e6e40a5cc341942f2ab5b1ddca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1494, y: 626}
+    spritePosition: {x: 440, y: 1191}
+  - name: CrazyDave_outerarm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 1356
+      width: 77
+      height: 52
+    spriteID: eaad21e61e8c91e43bf41c53dadd04f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 1356}
+    spritePosition: {x: 467, y: 1178}
+  - name: "\u56FE\u5C42 3"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 1082
+      width: 75
+      height: 133
+    spriteID: 9cc8c36ac5ec7bf428abccba94d14168
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 1082}
+    spritePosition: {x: 496, y: 1184}
+  - name: CrazyDave_innerfinger4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1494
+      y: 807
+      width: 14
+      height: 22
+    spriteID: 898efbfe826a6ee47825564596f5ffd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1494, y: 807}
+    spritePosition: {x: 357, y: 1230}
+  - name: CrazyDave_innerfinger3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1333
+      y: 1969
+      width: 15
+      height: 24
+    spriteID: 667da4081d8ab83459c2b84d5aaee968
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1333, y: 1969}
+    spritePosition: {x: 344, y: 1231}
+  - name: CrazyDave_innerfinger2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1494
+      y: 748
+      width: 17
+      height: 21
+    spriteID: 3c237f02b7183e448a0fc563958232ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1494, y: 748}
+    spritePosition: {x: 330, y: 1231}
+  - name: CrazyDave_innerfinger1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1315
+      y: 2023
+      width: 19
+      height: 21
+    spriteID: f50563baad76f634ba33786e6f509265
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1315, y: 2023}
+    spritePosition: {x: 312, y: 1224}
+  - name: CrazyDave_innerhand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1494
+      y: 685
+      width: 55
+      height: 29
+    spriteID: 5985ca45371b6654e8dfccaecdf624e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1494, y: 685}
+    spritePosition: {x: 322, y: 1215}
+  - name: 1722511711895
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1569
+      y: 4
+      width: 339
+      height: 50
+    spriteID: c6cf8333f398bac44bafde1f678433d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1569, y: 4}
+    spritePosition: {x: 207, y: 1212}
+  - name: CrazyDave_mouth2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 722
+      width: 30
+      height: 10
+    spriteID: 25df2662e9b566149a923fe7d03c6761
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 722}
+    spritePosition: {x: 431, y: 1283}
+  - name: CrazyDave_beard
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 1223
+      width: 84
+      height: 65
+    spriteID: 57b577f1857ac074882a430a05528850
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 1223}
+    spritePosition: {x: 408, y: 1253}
+  - name: CrazyDave_eyebrow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 740
+      width: 18
+      height: 10
+    spriteID: 8a63e9068b2bbf44ea00484fa2b2bcf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 740}
+    spritePosition: {x: 407, y: 1320}
+  - name: CrazyDave_eye
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1494
+      y: 722
+      width: 22
+      height: 18
+    spriteID: 3886628e182ca284ba85e55e3de8e6c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1494, y: 722}
+    spritePosition: {x: 413, y: 1305}
+  - name: CrazyDave_pot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1132
+      y: 1969
+      width: 142
+      height: 66
+    spriteID: 871fa13ff127af34da1690e9251c4c86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1132, y: 1969}
+    spritePosition: {x: 346, y: 1324}
+  - name: CrazyDave_head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 957
+      width: 102
+      height: 117
+    spriteID: a32e5ba942b2dbf4ea033ab5b60102ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 957}
+    spritePosition: {x: 403, y: 1264}
+  - name: CrazyDave_body12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 626
+      width: 130
+      height: 210
+    spriteID: 52583d57dc47f9141a4d85eaef4c58ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 626}
+    spritePosition: {x: 443, y: 1128}
+  - name: CrazyDave_innerarm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1282
+      y: 1969
+      width: 43
+      height: 46
+    spriteID: c332a42e04b4de149baf0b49085aff36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1282, y: 1969}
+    spritePosition: {x: 357, y: 1199}
+  - name: "\u56FE\u5C42 2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 1296
+      width: 93
+      height: 52
+    spriteID: 759c7560dfa25a64a86bd4ec7097a8bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1356, y: 1296}
+    spritePosition: {x: 371, y: 1198}
+  - name: 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 289
+      y: 4
+      width: 276
+      height: 1002
+    spriteID: 2ebb27e06c59ba049964749d7a6ca1b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 289, y: 4}
+    spritePosition: {x: 364, y: 751}
+  - name: 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 852
+      y: 4
+      width: 277
+      height: 1001
+    spriteID: 04d8b0d4a2688224d88b88a735b0fce4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 852, y: 4}
+    spritePosition: {x: 365, y: 752}
+  - name: 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 289
+      y: 1003
+      width: 277
+      height: 1002
+    spriteID: 5fd00f4dcf43a23458c0cd16722d8e2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 289, y: 1003}
+    spritePosition: {x: 364, y: 751}
+  - name: 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 571
+      y: 1004
+      width: 277
+      height: 1002
+    spriteID: 90597cf1fc53921499ddd630c1df1e5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 571, y: 1004}
+    spritePosition: {x: 365, y: 751}
+  - name: 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 571
+      y: 4
+      width: 277
+      height: 1002
+    spriteID: 398b9078995320a4f8494f38b1f0d012
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 571, y: 4}
+    spritePosition: {x: 364, y: 751}
+  - name: 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 852
+      y: 1002
+      width: 277
+      height: 1002
+    spriteID: b3124d03bfe2fa249a38f357edadcdd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 852, y: 1002}
+    spritePosition: {x: 366, y: 753}
+  - name: 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1014
+      width: 277
+      height: 1001
+    spriteID: e448052c1bdebfe4c852c3f66b146b93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1014}
+    spritePosition: {x: 363, y: 750}
+  - name: 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 277
+      height: 1002
+    spriteID: 9f89f73c1ec252143afa1c58a7d679a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 361, y: 748}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "8\u5916"
+    spriteName: "8\u5916"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 54b1e151b4ce06d4c98ab0aa50b9679d
+    layerID: 74
+    mosaicPosition: {x: 1132, y: 1314}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "7\u5916"
+    spriteName: "7\u5916"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2469f3d4ab7d7c64ca7eef8f85f4ae39
+    layerID: 73
+    mosaicPosition: {x: 1356, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "6\u5916"
+    spriteName: "6\u5916"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c3aedf2b7ffb34746bcf8c4552503d61
+    layerID: 72
+    mosaicPosition: {x: 1132, y: 671}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "5\u5916"
+    spriteName: "5\u5916"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bfa983ccdf0fc604d8c60ccc80c2505c
+    layerID: 71
+    mosaicPosition: {x: 1132, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u56FE\u5C42 1"
+    spriteName: "\u56FE\u5C42 1"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 71ddaf5b4733c1541b59ea9ef41457ae
+    layerID: 69
+    mosaicPosition: {x: 1356, y: 844}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_outerfinger1
+    spriteName: CrazyDave_outerfinger1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf77141ce61f7b2438bfad1c34c3f83a
+    layerID: 21
+    mosaicPosition: {x: 1282, y: 2023}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_outerfinger2
+    spriteName: CrazyDave_outerfinger2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f9e5eb681bfe49c46a7baf6b08b9de8c
+    layerID: 20
+    mosaicPosition: {x: 1537, y: 626}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_outerfinger3
+    spriteName: CrazyDave_outerfinger3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 52a82d0b033b5b94f9b1a0e3f9b28890
+    layerID: 19
+    mosaicPosition: {x: 1537, y: 654}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_outerfinger4
+    spriteName: CrazyDave_outerfinger4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: df785bddd241ec9489edb9b863ac64b4
+    layerID: 18
+    mosaicPosition: {x: 1494, y: 777}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_outerhand
+    spriteName: CrazyDave_outerhand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5aef1e6e40a5cc341942f2ab5b1ddca8
+    layerID: 17
+    mosaicPosition: {x: 1494, y: 626}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_outerarm
+    spriteName: CrazyDave_outerarm
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eaad21e61e8c91e43bf41c53dadd04f5
+    layerID: 14
+    mosaicPosition: {x: 1356, y: 1356}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u56FE\u5C42 3"
+    spriteName: "\u56FE\u5C42 3"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9cc8c36ac5ec7bf428abccba94d14168
+    layerID: 139
+    mosaicPosition: {x: 1356, y: 1082}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_innerfinger4
+    spriteName: CrazyDave_innerfinger4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 898efbfe826a6ee47825564596f5ffd5
+    layerID: 25
+    mosaicPosition: {x: 1494, y: 807}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_innerfinger3
+    spriteName: CrazyDave_innerfinger3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 667da4081d8ab83459c2b84d5aaee968
+    layerID: 24
+    mosaicPosition: {x: 1333, y: 1969}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_innerfinger2
+    spriteName: CrazyDave_innerfinger2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3c237f02b7183e448a0fc563958232ac
+    layerID: 23
+    mosaicPosition: {x: 1494, y: 748}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_innerfinger1
+    spriteName: CrazyDave_innerfinger1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f50563baad76f634ba33786e6f509265
+    layerID: 22
+    mosaicPosition: {x: 1315, y: 2023}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_innerhand
+    spriteName: CrazyDave_innerhand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5985ca45371b6654e8dfccaecdf624e8
+    layerID: 16
+    mosaicPosition: {x: 1494, y: 685}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1722511711895
+    spriteName: 1722511711895
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c6cf8333f398bac44bafde1f678433d4
+    layerID: 95
+    mosaicPosition: {x: 1569, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_mouth2
+    spriteName: CrazyDave_mouth2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 25df2662e9b566149a923fe7d03c6761
+    layerID: 12
+    mosaicPosition: {x: 1524, y: 722}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_beard
+    spriteName: CrazyDave_beard
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 57b577f1857ac074882a430a05528850
+    layerID: 10
+    mosaicPosition: {x: 1356, y: 1223}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_eyebrow
+    spriteName: CrazyDave_eyebrow
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8a63e9068b2bbf44ea00484fa2b2bcf8
+    layerID: 9
+    mosaicPosition: {x: 1524, y: 740}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_eye
+    spriteName: CrazyDave_eye
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3886628e182ca284ba85e55e3de8e6c4
+    layerID: 8
+    mosaicPosition: {x: 1494, y: 722}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_pot
+    spriteName: CrazyDave_pot
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 871fa13ff127af34da1690e9251c4c86
+    layerID: 7
+    mosaicPosition: {x: 1132, y: 1969}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_head
+    spriteName: CrazyDave_head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a32e5ba942b2dbf4ea033ab5b60102ae
+    layerID: 6
+    mosaicPosition: {x: 1356, y: 957}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_body12
+    spriteName: CrazyDave_body12
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 52583d57dc47f9141a4d85eaef4c58ad
+    layerID: 13
+    mosaicPosition: {x: 1356, y: 626}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CrazyDave_innerarm
+    spriteName: CrazyDave_innerarm
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c332a42e04b4de149baf0b49085aff36
+    layerID: 15
+    mosaicPosition: {x: 1282, y: 1969}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u56FE\u5C42 2"
+    spriteName: "\u56FE\u5C42 2"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 759c7560dfa25a64a86bd4ec7097a8bc
+    layerID: 138
+    mosaicPosition: {x: 1356, y: 1296}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 8
+    spriteName: 8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2ebb27e06c59ba049964749d7a6ca1b9
+    layerID: 68
+    mosaicPosition: {x: 289, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 7
+    spriteName: 7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 04d8b0d4a2688224d88b88a735b0fce4
+    layerID: 67
+    mosaicPosition: {x: 852, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 6
+    spriteName: 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5fd00f4dcf43a23458c0cd16722d8e2c
+    layerID: 66
+    mosaicPosition: {x: 289, y: 1003}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 5
+    spriteName: 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 90597cf1fc53921499ddd630c1df1e5f
+    layerID: 65
+    mosaicPosition: {x: 571, y: 1004}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 4
+    spriteName: 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 398b9078995320a4f8494f38b1f0d012
+    layerID: 64
+    mosaicPosition: {x: 571, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 3
+    spriteName: 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b3124d03bfe2fa249a38f357edadcdd2
+    layerID: 63
+    mosaicPosition: {x: 852, y: 1002}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 2
+    spriteName: 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e448052c1bdebfe4c852c3f66b146b93
+    layerID: 62
+    mosaicPosition: {x: 4, y: 1014}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1
+    spriteName: 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9f89f73c1ec252143afa1c58a7d679a6
+    layerID: 56
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

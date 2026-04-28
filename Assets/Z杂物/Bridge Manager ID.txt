@@ -1,0 +1,64 @@
+BGMS:
+0:主菜单BGM
+1.wait bgm
+2.lose music
+3.win music
+4.第一章BGM
+5.尸如潮水BGM
+
+Sounds:
+0.rollin
+1.paper
+2.tap
+3.准备好开始
+4.coinclick
+5.prizeclick
+6.use shovel
+7.zombie lost arm
+8.zombie eat
+9.zombies are coming
+10.pause
+11.plant plants
+12.SEED lift
+13.哥布林戳人音效
+14.砸瘪音效
+15.throw imp sound
+16.加刚特尔 死
+17.SUN GAIN
+18.子弹打中 普通
+19.子弹打中 塑料1
+20.子弹打中 塑料2
+21.子弹打中 铁1
+22.子弹打中 铁1
+23.防御塔爆炸
+24.僵尸叫1
+25.僵尸叫2
+26.僵尸叫3
+27.僵尸叫4
+28.僵尸叫5
+29.僵尸叫6
+30.gulp 吃完
+31.bleep
+32.buzzer
+33.button click
+34.grave button
+35.僵尸倒地
+
+43.shoot
+44.无音效
+
+
+
+Voices:
+0.戴夫说话,短1
+1.戴夫说话,短2
+2.戴夫说话,短3
+3.戴夫说话,长1
+4.戴夫说话,长2
+5.戴夫说话,长3
+6.戴夫说话,长4
+7.戴夫说话,长5
+8.戴夫说话,长6
+9.戴夫 叫1
+10.戴夫 叫2
+11.戴夫发神经

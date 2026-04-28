@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: c32582971c6185f4887567e0e6774a28
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Zombie_bungi_rightarm_lower2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 348
+      width: 44
+      height: 41
+    spriteID: 80f7f43eed87eb64ea49eff028ec905c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 348}
+    spritePosition: {x: 190, y: 208}
+  - name: Zombie_bungi_hand2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 397
+      width: 40
+      height: 43
+    spriteID: 2c6f3bacef3c06340b0d19f50f679afe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 397}
+    spritePosition: {x: 220, y: 189}
+  - name: Zombie_bungi_leftarm_lower2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 165
+      width: 71
+      height: 50
+    spriteID: 7cd67055d33a3c34395ce8b131960d5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 165}
+    spritePosition: {x: 242, y: 205}
+  - name: Zombie_bungi_hand2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 448
+      width: 38
+      height: 43
+    spriteID: 7c8c5510ba0a8e5478b040548aec4ef4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 448}
+    spritePosition: {x: 250, y: 182}
+  - name: Zombie_bungi_hair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 4
+      width: 64
+      height: 37
+    spriteID: 997f637892739bd428f8771e5a63324b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 4}
+    spritePosition: {x: 224, y: 272}
+  - name: Zombie_bungi_head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 223
+      width: 55
+      height: 58
+    spriteID: 8c8b8a04cb00b654495d045a5e1d6a29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 223}
+    spritePosition: {x: 228, y: 243}
+  - name: Zombie_bungi_head_scared
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 289
+      width: 55
+      height: 58
+    spriteID: eae49b0021f1213469d40078a0a6be30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 289}
+    spritePosition: {x: 228, y: 242}
+  - name: Zombie_bungi_leftarm_upper2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 35
+      height: 39
+    spriteID: a5c4ffe96a427d449ad39663e997e26c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 144}
+    spritePosition: {x: 274, y: 233}
+  - name: Zombie_bungi_rightarm_upper2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 49
+      width: 38
+      height: 41
+    spriteID: 9aa972fe5aa65474581884aa4305640e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 49}
+    spritePosition: {x: 195, y: 234}
+  - name: "\u6BD2\u836F"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 73
+      width: 44
+      height: 56
+    spriteID: c150b9a287c58e24199f352989e5f52b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 73}
+    spritePosition: {x: 236, y: 192}
+  - name: "\u72C2\u66B4\u836F\u6C34"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 425
+      width: 51
+      height: 61
+    spriteID: 1c523fcfa18f0434898f7a2324c874a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 425}
+    spritePosition: {x: 229, y: 188}
+  - name: "\u51B0\u51BB\u836F\u6C34"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 51
+      height: 61
+    spriteID: 9218d137995e149429f916341bd191b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 4}
+    spritePosition: {x: 229, y: 188}
+  - name: "\u6CBB\u7597\u836F\u6C34"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 355
+      width: 51
+      height: 62
+    spriteID: 3f78adb159922a64f8ae6f8aab86ab7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 355}
+    spritePosition: {x: 229, y: 188}
+  - name: Zombie_bungi_body2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 81
+      width: 63
+      height: 76
+    spriteID: 7cde7397c8797264595408c7f947de65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 81}
+    spritePosition: {x: 220, y: 200}
+  - name: Zombie_bungi_hand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 4
+      width: 33
+      height: 37
+    spriteID: 79d8a8cfc3248d045be2552e41e6ee81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 4}
+    spritePosition: {x: 319, y: 243}
+  - name: Zombie_bungi_leftarm_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 98
+      width: 38
+      height: 38
+    spriteID: 95a35d9082324504b8370e538b94371f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 98}
+    spritePosition: {x: 297, y: 245}
+  - name: Zombie_bungi_leftarm_upper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 291
+      width: 32
+      height: 33
+    spriteID: 656f61db97de949459c30ef439a6e1a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 291}
+    spritePosition: {x: 273, y: 251}
+  - name: Zombie_bungi_hand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 246
+      width: 33
+      height: 37
+    spriteID: 7481136a22eb1b749843cb31fac79faa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 246}
+    spritePosition: {x: 149, y: 245}
+  - name: Zombie_bungi_rightarm_cuff
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 49
+      width: 20
+      height: 27
+    spriteID: 2bce003c5667c9f48b7287639de1f454
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 49}
+    spritePosition: {x: 172, y: 257}
+  - name: Zombie_bungi_rightarm_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 457
+      width: 25
+      height: 22
+    spriteID: cdc43a522fbba8d43b80c7d09c1517ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 457}
+    spritePosition: {x: 176, y: 264}
+  - name: Zombie_bungi_rightarm_upper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 137
+      width: 44
+      height: 45
+    spriteID: 41bf0948c8bf9ef48bf194728a648d46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 137}
+    spritePosition: {x: 192, y: 243}
+  - name: Zombie_bungi_foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 254
+      width: 47
+      height: 39
+    spriteID: f91ebeea1edeb0f4aaaca65fbf5fcd26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 254}
+    spritePosition: {x: 265, y: 160}
+  - name: Zombie_bungi_leftleg_tatter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 487
+      width: 14
+      height: 15
+    spriteID: cce5d6063d405e74d95c20adc5216b8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 487}
+    spritePosition: {x: 279, y: 188}
+  - name: Zombie_bungi_leftleg_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 190
+      width: 34
+      height: 56
+    spriteID: 66f4db6456252bf498d1bfecb6a89861
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 190}
+    spritePosition: {x: 262, y: 168}
+  - name: Zombie_bungi_rightshirt
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 399
+      width: 38
+      height: 21
+    spriteID: 06c62d8e7a5805a42b74e6cc9477f612
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 399}
+    spritePosition: {x: 196, y: 226}
+  - name: Zombie_bungi_leftshirt
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 364
+      width: 31
+      height: 27
+    spriteID: aa1ed671119e969409928e76bb43c45d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 364}
+    spritePosition: {x: 273, y: 229}
+  - name: Zombie_bungi_left_tatter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 494
+      width: 18
+      height: 10
+    spriteID: 281efc06d9b929e4c84f5331387f8598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 494}
+    spritePosition: {x: 270, y: 227}
+  - name: Zombie_bungi_leftleg_upper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 332
+      width: 37
+      height: 24
+    spriteID: 7a42675fd1fabb147ada2929229ee7e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 332}
+    spritePosition: {x: 256, y: 208}
+  - name: Zombie_bungi_foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 301
+      width: 47
+      height: 39
+    spriteID: 74a5dc7ccd84e654e9d3532a608abc15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 301}
+    spritePosition: {x: 182, y: 160}
+  - name: Zombie_bungi_rightleg_lower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 191
+      width: 29
+      height: 47
+    spriteID: 6ec8be58c7c43a04c9393932b22e17d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 191}
+    spritePosition: {x: 207, y: 176}
+  - name: Zombie_bungi_rightleg_upper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 428
+      width: 29
+      height: 21
+    spriteID: be4369cea5f9c644f8fb705bcc3ce127
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 428}
+    spritePosition: {x: 215, y: 206}
+  - name: Zombie_bungi_body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 73
+      height: 69
+    spriteID: 7c656e6565f7f904c9a7a01a55537916
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 216, y: 206}
+  - name: Credits_CrazyDave_rope
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 190
+      width: 4
+      height: 37
+    spriteID: 21fe188d53d57f34890170fc83f7cff7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 190}
+    spritePosition: {x: 254, y: 300}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Zombie_bungi_rightarm_lower2
+    spriteName: Zombie_bungi_rightarm_lower2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 80f7f43eed87eb64ea49eff028ec905c
+    layerID: 5
+    mosaicPosition: {x: 85, y: 348}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_hand2
+    spriteName: Zombie_bungi_hand2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2c6f3bacef3c06340b0d19f50f679afe
+    layerID: 8
+    mosaicPosition: {x: 85, y: 397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftarm_lower2
+    spriteName: Zombie_bungi_leftarm_lower2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7cd67055d33a3c34395ce8b131960d5e
+    layerID: 7
+    mosaicPosition: {x: 4, y: 165}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_hand2
+    spriteName: Zombie_bungi_hand2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c8c5510ba0a8e5478b040548aec4ef4
+    layerID: 6
+    mosaicPosition: {x: 85, y: 448}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_hair
+    spriteName: Zombie_bungi_hair
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 997f637892739bd428f8771e5a63324b
+    layerID: 2
+    mosaicPosition: {x: 144, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_head
+    spriteName: Zombie_bungi_head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8c8b8a04cb00b654495d045a5e1d6a29
+    layerID: 3
+    mosaicPosition: {x: 4, y: 223}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_head_scared
+    spriteName: Zombie_bungi_head_scared
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eae49b0021f1213469d40078a0a6be30
+    layerID: 4
+    mosaicPosition: {x: 4, y: 289}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftarm_upper2
+    spriteName: Zombie_bungi_leftarm_upper2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a5c4ffe96a427d449ad39663e997e26c
+    layerID: 9
+    mosaicPosition: {x: 144, y: 144}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_rightarm_upper2
+    spriteName: Zombie_bungi_rightarm_upper2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9aa972fe5aa65474581884aa4305640e
+    layerID: 10
+    mosaicPosition: {x: 144, y: 49}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u6BD2\u836F"
+    spriteName: "\u6BD2\u836F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c150b9a287c58e24199f352989e5f52b
+    layerID: 43
+    mosaicPosition: {x: 85, y: 73}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u72C2\u66B4\u836F\u6C34"
+    spriteName: "\u72C2\u66B4\u836F\u6C34"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1c523fcfa18f0434898f7a2324c874a0
+    layerID: 40
+    mosaicPosition: {x: 4, y: 425}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u51B0\u51BB\u836F\u6C34"
+    spriteName: "\u51B0\u51BB\u836F\u6C34"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9218d137995e149429f916341bd191b0
+    layerID: 38
+    mosaicPosition: {x: 85, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u6CBB\u7597\u836F\u6C34"
+    spriteName: "\u6CBB\u7597\u836F\u6C34"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3f78adb159922a64f8ae6f8aab86ab7b
+    layerID: 32
+    mosaicPosition: {x: 4, y: 355}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_body2
+    spriteName: Zombie_bungi_body2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7cde7397c8797264595408c7f947de65
+    layerID: 11
+    mosaicPosition: {x: 4, y: 81}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_hand
+    spriteName: Zombie_bungi_hand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 79d8a8cfc3248d045be2552e41e6ee81
+    layerID: 12
+    mosaicPosition: {x: 216, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftarm_lower
+    spriteName: Zombie_bungi_leftarm_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 95a35d9082324504b8370e538b94371f
+    layerID: 13
+    mosaicPosition: {x: 144, y: 98}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftarm_upper
+    spriteName: Zombie_bungi_leftarm_upper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 656f61db97de949459c30ef439a6e1a0
+    layerID: 14
+    mosaicPosition: {x: 144, y: 291}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_hand
+    spriteName: Zombie_bungi_hand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7481136a22eb1b749843cb31fac79faa
+    layerID: 15
+    mosaicPosition: {x: 144, y: 246}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_rightarm_cuff
+    spriteName: Zombie_bungi_rightarm_cuff
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2bce003c5667c9f48b7287639de1f454
+    layerID: 16
+    mosaicPosition: {x: 190, y: 49}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_rightarm_lower
+    spriteName: Zombie_bungi_rightarm_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cdc43a522fbba8d43b80c7d09c1517ff
+    layerID: 17
+    mosaicPosition: {x: 144, y: 457}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_rightarm_upper
+    spriteName: Zombie_bungi_rightarm_upper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 41bf0948c8bf9ef48bf194728a648d46
+    layerID: 18
+    mosaicPosition: {x: 85, y: 137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_foot
+    spriteName: Zombie_bungi_foot
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f91ebeea1edeb0f4aaaca65fbf5fcd26
+    layerID: 19
+    mosaicPosition: {x: 85, y: 254}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftleg_tatter
+    spriteName: Zombie_bungi_leftleg_tatter
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cce5d6063d405e74d95c20adc5216b8e
+    layerID: 21
+    mosaicPosition: {x: 144, y: 487}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftleg_lower
+    spriteName: Zombie_bungi_leftleg_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 66f4db6456252bf498d1bfecb6a89861
+    layerID: 22
+    mosaicPosition: {x: 85, y: 190}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_rightshirt
+    spriteName: Zombie_bungi_rightshirt
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 06c62d8e7a5805a42b74e6cc9477f612
+    layerID: 23
+    mosaicPosition: {x: 144, y: 399}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftshirt
+    spriteName: Zombie_bungi_leftshirt
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa1ed671119e969409928e76bb43c45d
+    layerID: 24
+    mosaicPosition: {x: 144, y: 364}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_left_tatter
+    spriteName: Zombie_bungi_left_tatter
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 281efc06d9b929e4c84f5331387f8598
+    layerID: 25
+    mosaicPosition: {x: 4, y: 494}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_leftleg_upper
+    spriteName: Zombie_bungi_leftleg_upper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7a42675fd1fabb147ada2929229ee7e5
+    layerID: 26
+    mosaicPosition: {x: 144, y: 332}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_foot
+    spriteName: Zombie_bungi_foot
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 74a5dc7ccd84e654e9d3532a608abc15
+    layerID: 27
+    mosaicPosition: {x: 85, y: 301}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_rightleg_lower
+    spriteName: Zombie_bungi_rightleg_lower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6ec8be58c7c43a04c9393932b22e17d7
+    layerID: 28
+    mosaicPosition: {x: 144, y: 191}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_rightleg_upper
+    spriteName: Zombie_bungi_rightleg_upper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: be4369cea5f9c644f8fb705bcc3ce127
+    layerID: 29
+    mosaicPosition: {x: 144, y: 428}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Zombie_bungi_body
+    spriteName: Zombie_bungi_body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c656e6565f7f904c9a7a01a55537916
+    layerID: 30
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Credits_CrazyDave_rope
+    spriteName: Credits_CrazyDave_rope
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 21fe188d53d57f34890170fc83f7cff7
+    layerID: 33
+    mosaicPosition: {x: 127, y: 190}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

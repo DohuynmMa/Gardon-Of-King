@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: ab03e0175c773a349a04fd9c2959e287
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Cornpult_eyebrow1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 116
+      width: 17
+      height: 8
+    spriteID: 47b39c93217657344b87129a05b128e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 116}
+    spritePosition: {x: 235, y: 225}
+  - name: Cornpult_eyebrow2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 116
+      width: 17
+      height: 8
+    spriteID: 84bdf245968afdb4ab9838caa256d7e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 116}
+    spritePosition: {x: 252, y: 225}
+  - name: Cornpult_stalk1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 29
+      width: 15
+      height: 17
+    spriteID: d476726129777c3479528b4d142baa1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 29}
+    spritePosition: {x: 234, y: 258}
+  - name: Cornpult_stalk2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 4
+      width: 18
+      height: 16
+    spriteID: 7dd26a77c77ef834c88d0e8a6557582c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 4}
+    spritePosition: {x: 218, y: 259}
+  - name: Cornpult_stalk3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 98
+      width: 17
+      height: 10
+    spriteID: 62d11dbe1e884c74f9b4bebce2cb0012
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 98}
+    spritePosition: {x: 204, y: 255}
+  - name: Cornpult_stalk4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 98
+      width: 9
+      height: 12
+    spriteID: 64e1b775e51d71e47814561ad9491dd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 98}
+    spritePosition: {x: 200, y: 255}
+  - name: Cornpult_husktip2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 78
+      width: 10
+      height: 12
+    spriteID: 2a319c3087c4f024e96435bb01fe00ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 78}
+    spritePosition: {x: 271, y: 190}
+  - name: Cornpult_husk2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 80
+      width: 29
+      height: 16
+    spriteID: 272a15f304a804e4686b472cf6f2e313
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 80}
+    spritePosition: {x: 247, y: 188}
+  - name: Cornpult_husk4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 104
+      width: 31
+      height: 10
+    spriteID: 8bb0056ffe0906442947dee05a93bada
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 104}
+    spritePosition: {x: 262, y: 200}
+  - name: Cornpult_husktip1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 98
+      width: 16
+      height: 10
+    spriteID: 466e75f372b55c84cae45026eaae594e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 98}
+    spritePosition: {x: 205, y: 187}
+  - name: Cornpult_husk1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 61
+      width: 37
+      height: 17
+    spriteID: 576dde9347f108c4f8c9d38a37bfd193
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 61}
+    spritePosition: {x: 215, y: 188}
+  - name: Cornpult_husktip3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 104
+      width: 12
+      height: 10
+    spriteID: 84ab5765c776bfe40acd1bb10408778b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 104}
+    spritePosition: {x: 195, y: 198}
+  - name: Cornpult_husk3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 29
+      width: 26
+      height: 11
+    spriteID: 081328dacf564c14588afbdb7ae1945b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 29}
+    spritePosition: {x: 204, y: 198}
+  - name: Cabbagepult_basket_overlay
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 61
+      width: 62
+      height: 29
+    spriteID: 40dc720bf2683f54899d68e33184a99b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 61}
+    spritePosition: {x: 146, y: 235}
+  - name: Cornpult_butter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 61
+      width: 49
+      height: 50
+    spriteID: dc9bd140c7b5cb94181eae80673ebe18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 61}
+    spritePosition: {x: 150, y: 247}
+  - name: Cornpult_butter_splat
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 4
+      width: 52
+      height: 49
+    spriteID: 5d541047c052d4f40904d7e97e53f090
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 4}
+    spritePosition: {x: 149, y: 247}
+  - name: Cornpult_kernal
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 4
+      width: 17
+      height: 17
+    spriteID: b9373070f458e9746ace1b1282535feb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 4}
+    spritePosition: {x: 166, y: 264}
+  - name: Cabbagepult_basket
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 4
+      width: 63
+      height: 40
+    spriteID: bf953b920b370d449b53526633bd3bd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 4}
+    spritePosition: {x: 146, y: 235}
+  - name: Cornpult_blink1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 80
+      width: 16
+      height: 11
+    spriteID: 00baa88b1fae3bc41aa378090391e6bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 80}
+    spritePosition: {x: 243, y: 218}
+  - name: Cornpult_blink2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 153
+      y: 98
+      width: 16
+      height: 11
+    spriteID: eda49fe71f5d99f4097fa6d79cbda258
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 153, y: 98}
+    spritePosition: {x: 243, y: 218}
+  - name: Cornpult_body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 53
+      height: 68
+    spriteID: dca56d26bba212e41b786c4723d6afb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 216, y: 196}
+  - name: Cornpult_husk6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 61
+      width: 15
+      height: 9
+    spriteID: ee2e0ee62780c90488ec9d48665152bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 61}
+    spritePosition: {x: 206, y: 205}
+  - name: Cornpult_husk5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 98
+      width: 23
+      height: 10
+    spriteID: f2f7387f67ce36443b5488266c187677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 98}
+    spritePosition: {x: 259, y: 206}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Cornpult_eyebrow1
+    spriteName: Cornpult_eyebrow1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 47b39c93217657344b87129a05b128e6
+    layerID: 22
+    mosaicPosition: {x: 177, y: 116}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_eyebrow2
+    spriteName: Cornpult_eyebrow2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 84bdf245968afdb4ab9838caa256d7e4
+    layerID: 8
+    mosaicPosition: {x: 122, y: 116}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_stalk1
+    spriteName: Cornpult_stalk1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d476726129777c3479528b4d142baa1c
+    layerID: 19
+    mosaicPosition: {x: 230, y: 29}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_stalk2
+    spriteName: Cornpult_stalk2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7dd26a77c77ef834c88d0e8a6557582c
+    layerID: 20
+    mosaicPosition: {x: 221, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_stalk3
+    spriteName: Cornpult_stalk3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 62d11dbe1e884c74f9b4bebce2cb0012
+    layerID: 21
+    mosaicPosition: {x: 177, y: 98}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_stalk4
+    spriteName: Cornpult_stalk4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 64e1b775e51d71e47814561ad9491dd1
+    layerID: 2
+    mosaicPosition: {x: 226, y: 98}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husktip2
+    spriteName: Cornpult_husktip2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2a319c3087c4f024e96435bb01fe00ff
+    layerID: 16
+    mosaicPosition: {x: 237, y: 78}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husk2
+    spriteName: Cornpult_husk2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 272a15f304a804e4686b472cf6f2e313
+    layerID: 10
+    mosaicPosition: {x: 4, y: 80}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husk4
+    spriteName: Cornpult_husk4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8bb0056ffe0906442947dee05a93bada
+    layerID: 12
+    mosaicPosition: {x: 4, y: 104}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husktip1
+    spriteName: Cornpult_husktip1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 466e75f372b55c84cae45026eaae594e
+    layerID: 15
+    mosaicPosition: {x: 202, y: 98}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husk1
+    spriteName: Cornpult_husk1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 576dde9347f108c4f8c9d38a37bfd193
+    layerID: 9
+    mosaicPosition: {x: 192, y: 61}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husktip3
+    spriteName: Cornpult_husktip3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 84ab5765c776bfe40acd1bb10408778b
+    layerID: 17
+    mosaicPosition: {x: 43, y: 104}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husk3
+    spriteName: Cornpult_husk3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 081328dacf564c14588afbdb7ae1945b
+    layerID: 11
+    mosaicPosition: {x: 196, y: 29}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cabbagepult_basket_overlay
+    spriteName: Cabbagepult_basket_overlay
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40dc720bf2683f54899d68e33184a99b
+    layerID: 23
+    mosaicPosition: {x: 122, y: 61}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_butter
+    spriteName: Cornpult_butter
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dc9bd140c7b5cb94181eae80673ebe18
+    layerID: 6
+    mosaicPosition: {x: 65, y: 61}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_butter_splat
+    spriteName: Cornpult_butter_splat
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5d541047c052d4f40904d7e97e53f090
+    layerID: 7
+    mosaicPosition: {x: 65, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_kernal
+    spriteName: Cornpult_kernal
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b9373070f458e9746ace1b1282535feb
+    layerID: 18
+    mosaicPosition: {x: 196, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cabbagepult_basket
+    spriteName: Cabbagepult_basket
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf953b920b370d449b53526633bd3bd8
+    layerID: 24
+    mosaicPosition: {x: 125, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_blink1
+    spriteName: Cornpult_blink1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 00baa88b1fae3bc41aa378090391e6bb
+    layerID: 3
+    mosaicPosition: {x: 41, y: 80}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_blink2
+    spriteName: Cornpult_blink2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eda49fe71f5d99f4097fa6d79cbda258
+    layerID: 4
+    mosaicPosition: {x: 153, y: 98}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_body
+    spriteName: Cornpult_body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dca56d26bba212e41b786c4723d6afb9
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husk6
+    spriteName: Cornpult_husk6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ee2e0ee62780c90488ec9d48665152bd
+    layerID: 14
+    mosaicPosition: {x: 237, y: 61}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cornpult_husk5
+    spriteName: Cornpult_husk5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f2f7387f67ce36443b5488266c187677
+    layerID: 13
+    mosaicPosition: {x: 122, y: 98}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

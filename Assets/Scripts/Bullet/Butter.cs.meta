@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be82c927666209147b44a6101c178155
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - breakEffectParent: {instanceID: 0}
+  - breakEffect: {instanceID: 0}
+  - shooter: {instanceID: 0}
+  - butterBreak: {fileID: -2159901645594654965, guid: ab03e0175c773a349a04fd9c2959e287, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
